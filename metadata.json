@@ -1,0 +1,5 @@
+{
+  "name": "SentinelAI : Toxic Text Guard",
+  "description": "A comprehensive end-to-end toxic text detection system featuring real-time analysis, administrative moderation dashboards, and deep MLOps insights.",
+  "requestFramePermissions": []
+}
